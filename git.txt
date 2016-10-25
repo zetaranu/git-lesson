@@ -1,1 +1,1 @@
-test
+Writing explicit commit messages is important.
