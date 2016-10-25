@@ -1,1 +1,1 @@
-Good writing explicit commit messages is important.
+Writing explicit commit messages is very important.
